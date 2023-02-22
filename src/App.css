@@ -1,0 +1,16 @@
+.h1{
+  text-indent: 10%;
+  padding: auto;
+  margin: 1em;
+}
+.btn  {
+  padding: 1em;
+  margin-bottom: 2em;
+  margin-right: 2em;
+  margin-top: 2em;
+
+}
+.divbtn{
+  float:left;
+}
+
